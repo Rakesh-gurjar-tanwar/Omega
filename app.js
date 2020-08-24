@@ -3,7 +3,7 @@
 
 ///Edit Under This only
 
-var const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyBpTZmvbB1L8f-pYt_yw1Wi-fu018LuaqU",
   authDomain: "hacking-1e0d5.firebaseapp.com",
   databaseURL: "https://hacking-1e0d5.firebaseio.com",
